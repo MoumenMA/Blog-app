@@ -1,0 +1,50 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: rgb(38, 126, 197);
+  margin: 50px;
+  padding: 0 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.logo {
+  margin-left: 130px;
+}
+ul {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-right: 160px;
+}
+li {
+  list-style: none;
+  color: rgb(38, 126, 197);
+  margin: 0 14px;
+  font-size: 16px;
+}
+
+.title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: rgb(38, 126, 197);
+
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 19px 170px;
+}
+.paragraph {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 7px 170px;
+  padding: 20px;
+}
+hr {
+  margin: 20px;
+}
+.footer {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 30px 170px 0 170px;
+  color: rgb(38, 126, 197);
+}
